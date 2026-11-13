@@ -32,21 +32,6 @@ The dataset was obtained from Kaggle:
 - Created charts and visualizations in Excel.
 - Used the results to build a sales dashboard.
 
-## Tools Used
-
-- Microsoft Excel
-  - Data Cleaning
-  - Pivot Tables
-  - Data Analysis
-  - Charts & Dashboard
-
-## Project Files
-
-| Folder/File | Description |
-|---|---|
-| Dataset | Raw and cleaned datasets |
-| Analysis | Excel analysis and dashboard |
-| Images | Dashboard screenshots |
 
 ## Author
 
